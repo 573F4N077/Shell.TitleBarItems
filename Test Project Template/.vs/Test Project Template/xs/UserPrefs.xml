@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C9B3805F-43DD-41FE-BDFF-6432916D7675}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008110-001124C626E9801E" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test Project Template/Platforms/iOS/Info.plist">
+    <Files>
+      <File FileName="Test Project Template/MainPage.xaml.cs" />
+      <File FileName="Test Project Template/MainPage.xaml" Line="4" Column="54" />
+      <File FileName="Test Project Template/AppShell.xaml" Line="10" Column="48" />
+      <File FileName="Test Project Template/Platforms/iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test Project Template" expanded="True">
+            <Node name="Test Project Template" expanded="True" selected="True">
+              <Node name="Platforms" expanded="True">
+                <Node name="iOS" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Test_220Project_220Template PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008110-001124C626E9801E" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

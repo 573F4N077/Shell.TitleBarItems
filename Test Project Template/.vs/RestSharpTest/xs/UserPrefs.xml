@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{828C4E39-088B-4736-9510-A15E88EB2A25}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008110-001124C626E9801E" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestSharpTest/MainPage.xaml">
+    <Files>
+      <File FileName="RestSharpTest/MainPage.xaml" Line="4" Column="36" />
+      <File FileName="RestSharpTest/Platforms/iOS/Info.plist" />
+      <File FileName="RestSharpTest/Platforms/iOS/Program.cs" />
+      <File FileName="RestSharpTest/MauiProgram.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RestSharpTest" expanded="True">
+            <Node name="RestSharpTest" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.RestSharpTest PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008110-001124C626E9801E" />
+</Properties>
